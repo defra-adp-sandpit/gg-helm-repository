@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-11T21:11:06.4367743+01:00"
+    description: A Helm chart for Kubernetes
+    digest: b900454270547fa73f187ca9ae5f63c0e03d1a62191d4e5c19d4b2b0509a1bae
+    name: my-app
+    type: application
+    urls:
+    - https://defra-adp-sandpit.github.io/gg-helm-repository/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-11T21:11:06.4345483+01:00"
